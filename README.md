@@ -50,10 +50,15 @@ NMI score of agglomerative_reduced.txt :  1.8461794521809038
 
 
 6.Also I have attached fully excuted notebook code for each part naming:
+
 -->17CE10003_A.ipynb
+
 -->17CE10003_B.ipynb
+
 -->17CE10003_C.ipynb
+
 -->17CE10003_D.ipynb
+
 -->17CE10003_E.ipynb
  
 
