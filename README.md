@@ -35,16 +35,23 @@ Understanding the data and simple curve fitting, Visualization of the fitted cur
 3.All the part or each question are cleary solved sepertely in the same .py document with proper headlines and comment.
 
 4. Clustres of different part is included in "clusters" folder with propely naming for each part in ".txt" file.
+
 Name of clusters are: agglomerative.txt              ---> from Agglomerative Clustering 
+
 	              kmeans.txt 		     ---> from kmeans clustring
+		      
 		      kmeans_reduced.txt	     ---> from Kmeans Clustring on reduced data
+		      
 		      agglomerative_reduced.txt	     ---> from Agglomerative Clustering on reduced data
 
 
 5.
 NMI score of agglomerative.txt :  1.8461794521809038
+
 NMI score of kmeans.txt :  0.9187470250416958
+
 NMI score of kmeans_reduced.txt :  1.0244221726618001
+
 NMI score of agglomerative_reduced.txt :  1.8461794521809038
 
 
@@ -67,6 +74,7 @@ NMI score of agglomerative_reduced.txt :  1.8461794521809038
 (As per Question Given)
 
 1.All the parts are solved in different folder Nameing: 
+
         dataset.py--> In Dataset folder
    
 	(part1_a.py, part1_b.py)---> In Part 1 folder
