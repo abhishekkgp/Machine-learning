@@ -7,7 +7,7 @@ Understanding the data and simple curve fitting, Visualization of the fitted cur
 
 ### Logistic Regression and Decision Trees
 
-(As per Question Given)
+(As per Problem Given)
 
 1.All the 3 questions are solved in different part Nameing:
 
@@ -25,7 +25,7 @@ Understanding the data and simple curve fitting, Visualization of the fitted cur
 
 ### Clustering and Dimension Reduction
 
-(As per Question Given)
+(As per Problem Given)
 
 1.All the 5 questions are solved in different part Nameing: 
 	A.py, B.py, C.py, D.py and E.py
@@ -71,7 +71,7 @@ NMI score of agglomerative_reduced.txt :  1.8461794521809038
 
 ### Neural Network
 
-(As per Question Given)
+(As per Problem Given)
 
 1.All the parts are solved in different folder Nameing: 
 
