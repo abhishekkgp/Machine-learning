@@ -6,7 +6,7 @@
 ## Part-2: https://youtu.be/sQ870aTKqiM
 
 
-# SVM
+# 2. SVM
 ## Part-1: Support Vector Machines:- https://youtu.be/efR1C6CvhmE 
 ## Part 2: The Polynomial Kernel:- https://youtu.be/Toet3EiSFcM 
 ## Part 3: The Radial (RBF) Kernel:- https://youtu.be/Qc5IyLW_hns 
