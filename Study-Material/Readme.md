@@ -1,3 +1,5 @@
+### CS Prof Slides: http://cse.iitkgp.ac.in/~saptarshi/courses/ml2020s/
+
 # 1. Random Forest
 ## Method-1(better explanation):https://youtu.be/v6VJ2RO66Ag
 
