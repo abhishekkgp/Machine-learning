@@ -3,9 +3,11 @@
 
 ## Method-2 (have two main parts): 1. https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk&index=1&ab_channel=StatQuestwithJoshStarmer
 
+## 2. https://www.youtube.com/watch?v=sQ870aTKqiM&list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk&index=2&ab_channel=StatQuestwithJoshStarmer 
 
 
+# SVM
+## Part-1: Support Vector Machines:- https://youtu.be/efR1C6CvhmE 
+## Part 2: The Polynomial Kernel:- https://youtu.be/Toet3EiSFcM 
+## Part 3: The Radial (RBF) Kernel:- https://youtu.be/Qc5IyLW_hns 
 
-
-
-##                                  2. https://www.youtube.com/watch?v=sQ870aTKqiM&list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk&index=2&ab_channel=StatQuestwithJoshStarmer 
